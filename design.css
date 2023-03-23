@@ -1,11 +1,17 @@
 .lecs {
-  background-color: bisque;
-  width: 60%;
-  margin-top: 1cm;
+  position: relative;
+  width: 100%;
+  margin-top: 0cm;
+  /* background-image: url("971.jpg"); */
 }
 
 .lecsBox {
-  background-color: bisque;
-  width: 50%;
-  margin-top: 1cm;
+  background-color: rgb(163, 134, 99);
+  width: 38%;
+  margin-left: 25%;
 }
+
+/* .Body {
+  background-image: url('table.jpg');
+  background-color: none;
+} */
